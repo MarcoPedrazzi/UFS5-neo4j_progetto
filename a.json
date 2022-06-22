@@ -1,0 +1,434 @@
+[
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            0.5,
+            "/K203",
+            "/RIFUGIO SAN MARCO/Grotta azzurra"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            0.5,
+            "/K203",
+            "/Grotta azzurra/RIFUGIO SAN MARCO"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            2.5,
+            "/K205",
+            "/Vista San ANDREA/RIFUGIO SAN MARCO"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            2.5,
+            "/K200",
+            "/Vista San ANDREA/Vista San LAURA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            2.5,
+            "/K205",
+            "/RIFUGIO SAN MARCO/Vista San ANDREA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            2.5,
+            "/K206",
+            "/RIFUGIO SAN MARCO/Vista San LAURA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            3,
+            "/K205/K203",
+            "/Vista San ANDREA/RIFUGIO SAN MARCO/Grotta azzurra"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            3,
+            "/K203/K205",
+            "/Grotta azzurra/RIFUGIO SAN MARCO/Vista San ANDREA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            3,
+            "/K203/K206",
+            "/Grotta azzurra/RIFUGIO SAN MARCO/Vista San LAURA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            5,
+            "/K205/K206",
+            "/Vista San ANDREA/RIFUGIO SAN MARCO/Vista San LAURA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            5,
+            "/K200/K206",
+            "/Vista San ANDREA/Vista San LAURA/RIFUGIO SAN MARCO"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            5,
+            "/K205/K200",
+            "/RIFUGIO SAN MARCO/Vista San ANDREA/Vista San LAURA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            5,
+            "/K206/K200",
+            "/RIFUGIO SAN MARCO/Vista San LAURA/Vista San ANDREA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            5.5,
+            "/K200/K206/K203",
+            "/Vista San ANDREA/Vista San LAURA/RIFUGIO SAN MARCO/Grotta azzurra"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            5.5,
+            "/K203/K205/K200",
+            "/Grotta azzurra/RIFUGIO SAN MARCO/Vista San ANDREA/Vista San LAURA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            5.5,
+            "/K203/K206/K200",
+            "/Grotta azzurra/RIFUGIO SAN MARCO/Vista San LAURA/Vista San ANDREA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            7.5,
+            "/K205/K206/K200",
+            "/Vista San ANDREA/RIFUGIO SAN MARCO/Vista San LAURA/Vista San ANDREA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            7.5,
+            "/K200/K206/K205",
+            "/Vista San ANDREA/Vista San LAURA/RIFUGIO SAN MARCO/Vista San ANDREA"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            7.5,
+            "/K205/K200/K206",
+            "/RIFUGIO SAN MARCO/Vista San ANDREA/Vista San LAURA/RIFUGIO SAN MARCO"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            7.5,
+            "/K206/K200/K205",
+            "/RIFUGIO SAN MARCO/Vista San LAURA/Vista San ANDREA/RIFUGIO SAN MARCO"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            8,
+            "/K205/K200/K206/K203",
+            "/RIFUGIO SAN MARCO/Vista San ANDREA/Vista San LAURA/RIFUGIO SAN MARCO/Grotta azzurra"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            8,
+            "/K206/K200/K205/K203",
+            "/RIFUGIO SAN MARCO/Vista San LAURA/Vista San ANDREA/RIFUGIO SAN MARCO/Grotta azzurra"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            8,
+            "/K203/K205/K200/K206",
+            "/Grotta azzurra/RIFUGIO SAN MARCO/Vista San ANDREA/Vista San LAURA/RIFUGIO SAN MARCO"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    },
+    {
+        "keys": [
+            "tempototale",
+            "descrizione",
+            "punti"
+        ],
+        "length": 3,
+        "_fields": [
+            8,
+            "/K203/K206/K200/K205",
+            "/Grotta azzurra/RIFUGIO SAN MARCO/Vista San LAURA/Vista San ANDREA/RIFUGIO SAN MARCO"
+        ],
+        "_fieldLookup": {
+            "tempototale": 0,
+            "descrizione": 1,
+            "punti": 2
+        }
+    }
+]
